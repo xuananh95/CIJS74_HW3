@@ -1,0 +1,21 @@
+.task2 {
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+    margin-top: 20px;
+}
+.shown {
+    visibility: visible;
+}
+.hidden {
+    visibility: hidden;
+}
+.btn {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    width: 200px;
+    padding: 10px;
+    background-color: #f57d6b;
+    border-radius: 10px;
+}

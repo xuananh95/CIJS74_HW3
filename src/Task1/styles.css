@@ -1,0 +1,13 @@
+.circle {
+    border-radius: 70px;
+}
+
+.container {
+    border: 1px solid black;
+    margin: 0 auto;
+    width: 150px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 10px;
+}
